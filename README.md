@@ -24,3 +24,5 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 speeddetector.js is for the second challenge: speed Detector.
 
 index.js is for the first challenge: student Grade Generator.
+
+netsalarycalculator.js is for the third challenge: Net Salary Calculator.
