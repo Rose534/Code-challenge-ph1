@@ -1,4 +1,4 @@
-let mark = 56;
+let mark = 20;
 let grade;
 //first assign variables to be used later in the code.
 
@@ -7,17 +7,17 @@ if (mark >= 79) {
     grade = 'A';
 }
 else if (mark >= 60) {
-    grade = 'B-';
+    grade = 'B';
 }
 else if (mark >= 49) {
-    grade = 'C-';
+    grade = 'C';
 }
 else if (mark >= 40) {
-    grade = 'D-'
+    grade = 'D'
 }
 
 else {
-    grade = 'E-';
+    grade = 'E';
 }
 
 console.log('grade = ' + grade);  
