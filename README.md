@@ -22,4 +22,5 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 # TABLE OF CONTENT.
 speeddetector.js is for the second challenge: speed Detector.
+
 index.js is for the first challenge: student Grade Generator.
