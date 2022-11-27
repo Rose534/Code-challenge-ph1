@@ -1,4 +1,4 @@
-let speed = 135;
+let speed = 135;  //this is where the input should be, input any speed to see the ans.
 let print;
 //first declare the variables to be used in the global scope.
 
@@ -12,8 +12,8 @@ else if (((speed-70)/5) >= 12 ) {
 
     print = 'License suspended';}
 
-/*for example if the speed is 150, the equation would read: 150-70 = 80, then 80 divide by 5 which is 16
-16 happens to be above 12, so it will print 'license suspended'*/
+/*for example if the speed is 150, the equation would read: 150-70 = 80, 
+then 80 divide by 5 which is 16, 16 happens to be above 12, so it will print 'license suspended'*/
 
 else if (speed >= 71) {
     print = ('points:' + (speed-70)/5)
