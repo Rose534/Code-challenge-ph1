@@ -17,20 +17,20 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
  
 # Challenge 3: 
 # Net Salary Calculator (Toy Problem)
-Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF deductions, NSSF deductions, gross salary, and net salary. 
 
 # TABLE OF CONTENT.
-speeddetector.js is for the second challenge: speed Detector.
+Index.js is for the first challenge: student Grade Generator.
 
-index.js is for the first challenge: student Grade Generator.
+Speeddetector.js is for the second challenge: speed Detector.
 
-netsalarycalculator.js is for the third challenge: Net Salary Calculator.
+Netsalarycalculator.js is for the third challenge: Net Salary Calculator.
 
 # Student grade Generator
-for student generator the language used is javascript. To use the code, input you own number (between 0 -100) in the let mark variable then run the code to see the grade that will be presented.
+For student generator the language used is javascript. To use the code, input you own number (between 0 -100) in the let mark variable then run the code to see the grade that will be presented.
 
 # Speed Detector 
-for speed generator, the language used was also javascript. To use this code, input your own speed in the let speed variable, then run the code to see what speed/note that will be presented.
+For speed generator, the language used was also javascript. To use this code, input your own speed in the let speed variable, then run the code to see what speed/note that will be presented.
 
 # Net Salary Calculator
-for the net salary calculator, the language used is javascript. To use this code, input your own salary and benefits and run the code to see the net salary, deductions and gross salary.
+For the net salary calculator, the language used is javascript. To use this code, input your own salary and benefits and run the code to see the net salary, deductions and gross salary.
