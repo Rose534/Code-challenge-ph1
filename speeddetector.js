@@ -8,7 +8,7 @@ if(speed <= 70) {
 
 //basically says that is the if the speed is less that 70, then it can print okay.
 
-else if (((speed-70)/5) >= 12 ) {
+else if (((speed-70)/5) > 12 ) {
 
     print = 'License suspended';}
 
