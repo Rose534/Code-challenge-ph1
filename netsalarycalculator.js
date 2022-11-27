@@ -3,8 +3,8 @@ it was more exhausting typing it all up :) */
 
 //declaring variables.
 
-let salay = 17000;             //where input of salary should happen.
-let benefits = 3000;           // where input of benefits should happen.
+let salay = 17000;             //where input of salary should happen, input any number. 
+let benefits = 3000;           // where input of benefits should happen, input any number.
 let gross = salay + benefits;
 let NSSF = gross * 0.06; 
 
@@ -39,7 +39,7 @@ console.log('Gross salary:', gross)
  //this is where i call for answers.
  
   
-//NHIF (it's...a lot, bare with me.)
+//NHIF (it's...a lot, bare with me.) comment explaining is below the statement.
 
         if (gross <= 5999 ){
            NHIF  = gross - (gross - 150) }
