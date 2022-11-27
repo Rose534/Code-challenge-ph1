@@ -22,9 +22,9 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 # TABLE OF CONTENT.
 Index.js is for the first challenge: student Grade Generator.
 
-Speeddetector.js is for the second challenge: speed Detector.
-
 Netsalarycalculator.js is for the third challenge: Net Salary Calculator.
+
+Speeddetector.js is for the second challenge: speed Detector.
 
 # Student grade Generator
 For student generator the language used is javascript. To use the code, input you own number (between 0 -100) in the let mark variable then run the code to see the grade that will be presented.
