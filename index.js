@@ -1,4 +1,4 @@
-let mark = 20;
+let mark = 20;  //this is where the input should be, input any mark.
 let grade;
 //first assign variables to be used later in the code.
 
