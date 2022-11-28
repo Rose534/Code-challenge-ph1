@@ -3,7 +3,7 @@ it was more exhausting typing it all up :) */
 
 //declaring variables.
 
-let salay = 100000;             //where input of salary should happen, input any number. 
+let salay = 100000;             //where input of salary should happen, input any number. (naming of salary to salay is very intentional)
 let benefits = 3000;           // where input of benefits should happen, input any number.
 let gross = salay + benefits;
 let NSSF = gross * 0.06; 
@@ -92,10 +92,11 @@ console.log('Gross salary:', gross)
         else if (gross >= 100000) {
             NHIF = 1700}
 
-/*the is statement goes through the entire table of NHIF (on the website) and 
-deducts the repsective NHIF bill from the gross salary, then deducted by itself again
-to give the actual NHIF bill, and then, the actual NHIF bill is added with NSSF, TAX bill
-to give a number that will be used to subtract from the gross salary, to give us the net salary. 
+/*the is an if statement that goes through the entire table of NHIF (on the website) and 
+gives the value in the table, that value is then taken and used as the NHIF value and also added 
+with NHIF and NSSF to give us all the tax that is deducted.
+
+This is then taken and subtracted from the gross salary to give us a net salary.
  */
     
 
