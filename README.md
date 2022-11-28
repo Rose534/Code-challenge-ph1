@@ -27,11 +27,12 @@ index.js is for the first challenge: student Grade Generator.
 
 netsalarycalculator.js is for the third challenge: Net Salary Calculator.
 
+# PROJECT SETUP
 # student grade Generator
-for student generator the language used is javascript. To use the code, input you own number (between 0 -100) in the let mark variable then run the code to see the grade that will be presented.
+For student generator the language used is javascript. To use the code, input you own number (between 0 -100) in the let mark variable then run the code to see the grade that will be presented.
 
 # speed Detector 
-for speed generator, the language used was also javascript. To use this code, input your own speed in the let speed variable, then run the code to see what speed/note that will be presented.
+For speed generator, the language used was also javascript. To use this code, input your own speed in the let speed variable, then run the code to see what speed/note that will be presented.
 
 # net Salary Calculator
-for the net salary calculator, the language used is javascript. To use this code, input your own salary and benefits and run the code to see the net salary, deductions and gross salary.
+For the net salary calculator, the language used is javascript. To use this code, input your own salary and benefits and run the code to see the net salary, deductions and gross salary.
