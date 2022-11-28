@@ -20,14 +20,16 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
 Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF deductions, NSSF deductions, gross salary, and net salary. 
 
 # TABLE OF CONTENT.
-Index.js is for the first challenge: student Grade Generator.
+Student grade generator is for the first challenge: student Grade Generator.
 
-Netsalarycalculator.js is for the third challenge: Net Salary Calculator.
+Net salary calculator.js is for the third challenge: Net Salary Calculator.
 
-Speeddetector.js is for the second challenge: speed Detector.
+Speed detector.js is for the second challenge: speed Detector.
+
+# PROJECT SETUP.
 
 # Student grade Generator
-For student generator the language used is javascript. To use the code, input you own number (between 0 -100) in the let mark variable then run the code to see the grade that will be presented.
+For student generator, the language used is javascript. To run this code, input a digit ( btwn 0 -100) in the let mark variable, then run the code to see the grade that will be presented in the terminal. The terminal should give you a grade for the mark that has been added to the let mark variable.
 
 # Speed Detector 
 For speed generator, the language used was also javascript. To use this code, input your own speed in the let speed variable, then run the code to see what speed/note that will be presented.
