@@ -32,7 +32,4 @@ scoring(100)
 scoring(77)
 scoring(67)
 
-/*console.log refers to the 'grade' variable at the very top of the page (global scope),
-so if the mark at the top changes so does the grade, 
-eg; if the mark is 90, the grade changes to A.*/
 
